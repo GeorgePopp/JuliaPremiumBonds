@@ -1,6 +1,6 @@
 # JuliaPremiumBonds
 
-This project containts a  Pluto notebook to demo how Julia and Pluto can be used to make a basic web app. This notebook simulates the returns on premium bond investments and plots the results (e.g. quantiles of returns over a period).
+This project containts a  Pluto notebook to demo how Julia and Pluto can be used to make a basic web app. This notebook simulates the prize winings on premium bond savings and plots the results (e.g. quantiles of returns over a period).
 
 ## Screenshots
 
